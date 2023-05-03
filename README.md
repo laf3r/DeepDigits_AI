@@ -1,6 +1,8 @@
 ---
-license: gpl-2.0
+license: gpl-2.0 
 ---
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97-%2300BFFF)](https://huggingface.co/Innokentiy)
+
 # DeepDigits_AI
 ## Нейронная сеть для классификации цифр с точностью 99.4%
 ![image](https://user-images.githubusercontent.com/101829424/235917558-4b4642e8-8808-4938-84bf-27de5592b442.png)
