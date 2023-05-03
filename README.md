@@ -1,3 +1,6 @@
+---
+license: gpl-2.0
+---
 # DeepDigits_AI
 ## Нейронная сеть для классификации цифр с точностью 99.4%
 ![image](https://user-images.githubusercontent.com/101829424/235917558-4b4642e8-8808-4938-84bf-27de5592b442.png)
@@ -41,5 +44,6 @@
 ## Результат
 <img width="781" alt="Screenshot_5" src="https://user-images.githubusercontent.com/101829424/235924949-10dc4a1c-1ad1-42d8-bcc5-98d4ed2d2dc0.png">
 Модель имеет защиту от переобучения и имееет совершенную точность для многоклассовой классификации цифр.
+Модель доступна для скачивания на huggingface: https://huggingface.co/Innokentiy/DeepDigits_AI
 
-Программа предоставляется в виде открытого исходного кода.
+>Программа предоставляется в виде открытого исходного кода.
