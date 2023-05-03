@@ -44,7 +44,7 @@ license: gpl-2.0
 Для задачи многоклассовой классификации была выбрана функция потерь SparseCategoricalCrossentropy, в качестве оптимизатора используется Adam. Для оценки качества используется метрика sparse_categorical_accuracy.
 
 ## Результат
-<img width="781" alt="Screenshot_5" src="https://user-images.githubusercontent.com/101829424/235924949-10dc4a1c-1ad1-42d8-bcc5-98d4ed2d2dc0.png">
+<img width="768" alt="Screenshot_5" src="https://user-images.githubusercontent.com/101829424/235929864-e2ea545c-1ddc-4a4e-b1c3-3b927c2aacd2.png">
 Модель имеет защиту от переобучения и имееет совершенную точность для многоклассовой классификации цифр.
 Модель доступна для скачивания на huggingface: https://huggingface.co/Innokentiy/DeepDigits_AI
 
