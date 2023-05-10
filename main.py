@@ -54,7 +54,8 @@ def get_dataset(batch_size, is_training=True):
         image = tf.cast(image, tf.float32)
         image /= 255.0
         return image, label
-        dataset = dataset.map(scale)
+    
+    dataset = dataset.map(scale)
     if is_training:
         dataset = dataset.shuffle(10000)
         dataset = dataset.repeat()
